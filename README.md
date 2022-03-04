@@ -13,7 +13,9 @@
 
 ## Sobre
 
-Exemplo basico de FutureBuilder
+Exemplo de FutureBuilder
+
+</br>
 
 ## Additional information
 
@@ -25,7 +27,7 @@ Flutter (Channel stable, 2.10.2, locale pt-BR)
 <table align="center" border="0" cellpadding="1" cellspacing="1" style="width:650px;">
 	<tbody>
 		<tr>
-			<td><img alt="" src="(https://user-images.githubusercontent.com/31604881/156787941-4c441146-553b-41d7-89f6-363d13fc6ade.png" style="width: 290px height: 500px;" /></td>
+			<td><img alt="" src="https://user-images.githubusercontent.com/31604881/156787941-4c441146-553b-41d7-89f6-363d13fc6ade.png" style="width: 290px height: 500px;" /></td>
 			<td><img alt="" src="https://user-images.githubusercontent.com/31604881/156787965-c5dea002-5d4a-4862-9e5c-ff7b3170778d.png" style="width: 290px height: 500px;" /></td>
         </tr>        
 	</tbody>
