@@ -29,6 +29,7 @@ class _LerFutureState extends State<LerFuture> {
           if (snapshot.hasData) {
             List<ClassCliente>? posts = snapshot.data;
             return ListView(
+              scrollDirection: Axis.horizontal,
               children: posts!
                   .map(
                     (ClassCliente post) => ListTile(
@@ -58,6 +59,7 @@ class _LerFutureState extends State<LerFuture> {
     );
   }
 
+  // navegar para detalhes
   detalhes(ClassCliente post) {
     Navigator.of(context)
         .push(MaterialPageRoute(
